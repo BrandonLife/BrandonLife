@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BrandonLife
-- 👀 I’m interested in working as a Full Stack MERN Developer.
-- 💞️ I currently have a Full Stack Developer certificate from Kingsland University and I am currrently at NC State University for continuous learning.
-- 🎃 My first programming language is Javascript and now I am currently learning Python. 
+- 👀 I’m interested in working as a Full Stack MERN Developer or with Python as a backend.
+- 💞️ I currently have a Full Stack Developer certificate from Kingsland University and a Software Engineering Certificate from North Carolina State University.
+- 🎃 My primary programming language is JavaScript but I also know some Python. 
 - 📫 How to reach me: blife1119@gmail.com 
 
 <!---
